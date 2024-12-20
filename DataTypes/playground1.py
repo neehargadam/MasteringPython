@@ -11,4 +11,6 @@ print(c)
 #print(bin(1010))
 # print(bin(ob10010101))
 
-#
+z=0o123;
+print(z)
+print(type(z))
